@@ -3,7 +3,7 @@ const touristSpotsData = {
     "Rajasthan": [
         {
             name: "Jaipur - Pink City",
-            image: "/images/jaipur.jpg", // Update with the actual path to the image
+            image: "/images/jaipur.jpg", 
             description: "Known as the Pink City, Jaipur is Rajasthan's capital and largest city. The city was founded in 1727 by Maharaja Sawai Jai Singh II.",
             bestTime: "October to March",
             attractions: [
